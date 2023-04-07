@@ -1,0 +1,17 @@
+.appoment-div{
+    width: 100%;
+    height: 430px;
+    background-color:#E5E5E5;
+    margin-top: 230px;
+}
+.appoment-imgdiv{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 60px;
+}
+.appoment-textdiv{
+    width: 428px;
+    margin: auto;
+}

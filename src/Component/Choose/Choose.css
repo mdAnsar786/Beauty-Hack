@@ -1,0 +1,49 @@
+.choose-maindiv{
+    width: 100%;
+    height: auto;
+    background-color:#FFFFFF; 
+    padding-top: 16%;
+    
+}
+.first-div{
+display: flex;
+justify-content: space-between;
+}
+
+.img-div{
+    border-radius:50% ;
+    background-color:#954F25 ;
+    color: #FFFFFF;
+    width: 100px;
+    height: 100px;
+}
+.icon{
+    width: 50px;
+    padding: 22px;
+}
+.text-tag{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+    margin: 30px 0px 5px 0px;  
+}
+.small-text{
+    text-align: center;
+    width: 160px;
+}
+.img-content{
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.facial{
+    position: absolute;
+}
+.use{
+    top:10%;
+}

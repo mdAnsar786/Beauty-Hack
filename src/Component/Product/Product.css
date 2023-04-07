@@ -1,0 +1,45 @@
+.productdiv{
+    width: 100%;
+    height: 350px;
+    background-color:#E5E5E5;
+    color: black;
+    /* border: 1px solid red; */
+    margin-bottom: 30px;
+}
+.product-boxdiv{
+    width: 70%;
+    margin-top: 50px;
+    height: 300px;
+    background-color: #954F25;
+    color: #FFFFFF;
+    border-radius: 15px;
+    margin-left: 225px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.display{
+    display: flex;
+    justify-content: space-between;
+}
+.kadarius-img{
+    height: 300px;
+    width: 500px;
+
+}
+.product-text{
+    width: 291px;
+    margin-left: 143px;
+    text-align: left;
+    margin-top: 50px;
+}
+.Bakuchiol-text {
+    font-size: 17px;
+    font-weight: 500;
+}
+.product-topdiv{
+    padding-top: 20px;
+}
+.bestseller{
+    font-size: 30px;
+    font-weight: 600;
+    font-style: italic;
+}
